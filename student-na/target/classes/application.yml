@@ -5,7 +5,7 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 26.99.234.0:8848
+        server-addr: 10.192.53.145:8848
         metadata:
           my-key: my-meta-value
         service: student
